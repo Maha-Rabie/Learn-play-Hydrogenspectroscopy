@@ -172,6 +172,3 @@ java -cp out hydrogenspectroscopy.Hydrogenspectroscopy
 
 ---
 
-## License
-
-This project is part of the **Maha-Rabie** repository. See the root repository for license details.
